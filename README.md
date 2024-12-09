@@ -1,4 +1,4 @@
-# Latihan OOP membuat package dan modul dengan struktur seperti berikut
+# Latihan OOP membuat package dan modul 
 # Nama : Feby Putri K
 # kelas: TI 24 A2
 # Nim  : 312410245
